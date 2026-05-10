@@ -1,0 +1,6 @@
+{
+  "name": "StockSmart",
+  "description": "Sistema de Gestión de Inventario, análisis de ganancias y seguimiento de movimientos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
